@@ -1,5 +1,7 @@
 # Web-Based-Age-Calculator
 
+Author- HAMAD WANI
+
 Overview of the Web-Based Age Calculator
 
 The project is a web-based Age Calculator that allows users to calculate their age based on their date of birth. The tool takes a user's birthdate as input and calculates their age in years, months, and days. This project involves using HTML for the structure, CSS for styling the interface, and JavaScript for handling the logic behind the age calculation. It provides a simple yet effective way for users to interact with the webpage and receive real-time feedback. The project is a great way to practice combining basic web development skills and creating a user-friendly experience.
